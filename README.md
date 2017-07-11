@@ -27,7 +27,7 @@ tratando as mensagens via eventos no JavaScript. <br>
 * Comunidade Ativa
 
 ### Desvantagem
-Criar por padrão o projeto com view em `.jade`, sendo que mudaram para `.pug`.
+O Express cria por padrão o projeto com view em `.jade`, sendo que mudaram para `.pug`.
 
 ### Principais passos para instalação e configuração deste projeto
 Após clonar o projeto para executalo é necessário abrir o terminal ou cmd e ir para a pasta do projeto e executar: `npm install`. 
